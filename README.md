@@ -6,13 +6,6 @@ This project implements a character-level Recurrent Neural Network (RNN) using L
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Data Preparation](#data-preparation)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Text Generation](#text-generation)
-- [Results](#results)
-- [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 This project involves training a neural network to generate text that mimics the style of Shakespeare. The model learns to predict the next character in a sequence, allowing it to generate new text one character at a time.
